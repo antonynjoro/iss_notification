@@ -1,1 +1,1 @@
-git
+WEATHER_API_KEY = "eca6da1330ca432e1d6e20b2038c9a13"
